@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1750079419079
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1750086288979
+  login: 1750077902288
+money: '0'
+last-account-name: pandadyz
+lastlocation:
+  world: f93ec086-8bd0-4249-a8df-de36ed1dbd2a
+  world-name: world
+  x: -359.6513079057653
+  y: 64.0
+  z: 103.85927152690431
+  yaw: -136.929931640625
+  pitch: 12.450021743774414
+logoutlocation:
+  world: b854a57e-2630-4489-b725-67b5bcfc838b
+  world-name: world_nether
+  x: 4.460252221686598
+  y: 68.0
+  z: -82.69999998807907
+  yaw: 71.42236328125
+  pitch: -29.84980010986328
+homes:
+  home:
+    world: f93ec086-8bd0-4249-a8df-de36ed1dbd2a
+    world-name: world
+    x: 240.6558447363511
+    y: 92.0
+    z: -368.6634559061876
+    yaw: 10.0494384765625
+    pitch: 10.949938774108887

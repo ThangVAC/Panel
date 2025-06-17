@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1748953955855
+  login: 1748953871041
+money: '0'
+last-account-name: hertasita
+logoutlocation:
+  world: f93ec086-8bd0-4249-a8df-de36ed1dbd2a
+  world-name: world
+  x: 245.30239569748525
+  y: 69.0
+  z: 384.207588744864
+  yaw: -46.34979248046875
+  pitch: 44.85000228881836

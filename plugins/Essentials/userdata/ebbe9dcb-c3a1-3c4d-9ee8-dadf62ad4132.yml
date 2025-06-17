@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1749369001700
+  login: 1749368983741
+money: '0'
+last-account-name: memaybeo
+logoutlocation:
+  world: f93ec086-8bd0-4249-a8df-de36ed1dbd2a
+  world-name: world
+  x: 218.91579386007427
+  y: 78.0
+  z: 249.53382289752398
+  yaw: -128.07400512695312
+  pitch: 19.40212059020996

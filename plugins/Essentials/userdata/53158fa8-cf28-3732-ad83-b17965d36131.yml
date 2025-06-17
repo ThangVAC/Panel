@@ -1,0 +1,57 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1750090525678
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1750090785422
+  login: 1750090424243
+  kits:
+    color: 1749735609901
+money: '0'
+lastlocation:
+  world: f93ec086-8bd0-4249-a8df-de36ed1dbd2a
+  world-name: world
+  x: 196.85724689598064
+  y: 76.0
+  z: 197.9840857592726
+  yaw: -11.887384414672852
+  pitch: 0.2450566440820694
+logoutlocation:
+  world: f93ec086-8bd0-4249-a8df-de36ed1dbd2a
+  world-name: world
+  x: 117.81798100999842
+  y: 59.0
+  z: 123.62236863705407
+  yaw: -112.36917114257812
+  pitch: 22.421506881713867
+last-account-name: SuGiFX
+homes:
+  home:
+    world: f93ec086-8bd0-4249-a8df-de36ed1dbd2a
+    world-name: world
+    x: 111.89374953723677
+    y: 80.0
+    z: 265.9422448535314
+    yaw: 96.8697509765625
+    pitch: 4.050091743469238
+  farm:
+    world: 6d56e91a-6062-4d0a-b014-76fb9ac52f40
+    world-name: world_the_end
+    x: 248.7019775886055
+    y: 1.0
+    z: -75.23750001192093
+    yaw: -144.15016174316406
+    pitch: 57.750064849853516

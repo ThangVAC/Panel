@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1748966191159
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1749051423019
+  login: 1749367647795
+money: '0'
+last-account-name: Porse
+logoutlocation:
+  world: f93ec086-8bd0-4249-a8df-de36ed1dbd2a
+  world-name: world
+  x: 203.6851888845827
+  y: 83.0
+  z: 229.53618568880484
+  yaw: -105.13714599609375
+  pitch: 26.5499267578125
+lastlocation:
+  world: f93ec086-8bd0-4249-a8df-de36ed1dbd2a
+  world-name: world
+  x: 323.7981912465852
+  y: 83.0
+  z: 192.74077405793474
+  yaw: 23.4034423828125
+  pitch: -35.849491119384766
+past-usernames:
+- porse

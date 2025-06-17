@@ -1,0 +1,24 @@
+# Toggles whether titles should be sent.
+Enabled: true
+
+Private:
+  First-Join:
+    1:
+      Permission: cjm.default
+      Messages:
+        1:
+          Title: "&aLần đầu trải nghiệm %names%!"
+          SubTitle: ""
+          Fade-In: 10
+          Stay: 80
+          Fade-Out: 10
+  Join:
+    1:
+      Permission: cjm.default
+      Messages:
+        1:
+          Title: "&l&aChào mừng trở lại!"
+          SubTitle: "&2%name%"
+          Fade-In: 10
+          Stay: 80
+          Fade-Out: 10

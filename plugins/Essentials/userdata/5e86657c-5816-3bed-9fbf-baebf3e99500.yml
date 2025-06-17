@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1747727067464
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1747727406112
+  login: 1747725033958
+money: '0'
+last-account-name: Sakamoto098
+lastlocation:
+  world: f93ec086-8bd0-4249-a8df-de36ed1dbd2a
+  world-name: world
+  x: 542.8519295095464
+  y: -29.0
+  z: -1342.4533273775983
+  yaw: -29.39306640625
+  pitch: 23.250097274780273
+logoutlocation:
+  world: f93ec086-8bd0-4249-a8df-de36ed1dbd2a
+  world-name: world
+  x: 251.8254503267932
+  y: 88.0
+  z: -365.24818731627767
+  yaw: -78.600341796875
+  pitch: 8.700021743774414
